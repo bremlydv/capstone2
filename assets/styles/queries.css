@@ -1,0 +1,27 @@
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media (min-width: 992px) and (max-width: 1300px){
+
+	.carousel-item > img {
+		top: 0;
+		left: -50px;
+	}
+
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.99px){
+
+	#slide1 {
+		left:-190px;
+		top:  230px;
+		position: relative;
+	}
+
+
+ }
+
+
